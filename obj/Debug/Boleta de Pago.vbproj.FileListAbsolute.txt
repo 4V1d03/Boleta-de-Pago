@@ -1,0 +1,13 @@
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta de Pago.vbproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta de Pago.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta_de_Pago.Resources.resources
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta de Pago.vbproj.GenerateResource.cache
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta de Pago.vbproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\bin\Debug\Boleta de Pago.exe.config
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\bin\Debug\Boleta de Pago.exe
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\bin\Debug\Boleta de Pago.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\bin\Debug\Boleta de Pago.xml
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta_de_Pago.Form1.resources
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta de Pago.exe
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta de Pago.xml
+C:\Users\aguil\OneDrive\Proyectos personales\Boleta de Pago\obj\Debug\Boleta de Pago.pdb
