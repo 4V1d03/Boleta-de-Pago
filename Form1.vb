@@ -8,7 +8,7 @@ Public Class Form1
     Dim horasTrabajadas As Double
     Dim sueldobruto As Double
     Dim sueldoNeto As Double
-
+    Dim sueldo As Double
 
     Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs) Handles TextBox3.TextChanged
         If Val(TextBox3.Text) > 40 Then
